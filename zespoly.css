@@ -1,0 +1,90 @@
+body{
+	background-color: #d7f4ff; 
+	 font-family: 'Gotu', sans-serif;
+  }
+  
+  #container{
+	   width: 1300px;
+	   margin-left: auto;
+	   margin-right: auto;
+  }
+  
+  #logo{
+	color:	grey;
+	text-align: center;
+	font-size: 50px;
+	letter-spacing: 3px;
+	font-weight:700;
+}
+  
+  #menu{
+	background-color: 	#e9d7f2;;
+	margin-top: 25px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;	
+}
+
+  #content{
+	  color: rgb(77, 77, 77);
+	  display: flex;
+	  width: 1300px;
+  }
+  
+  #mainbar{
+	width: 1300px;
+	background-color:#fdfde6;
+	padding:20px;
+	border-radius: 10px;
+	font-size: 20px;	
+	margin-top: 2%;
+}
+  
+  .link{
+	 font-size: 15px;
+	  color: gray;
+	  text-decoration: none;
+  }
+  
+  #footer{
+	   color: #202fff;
+	   text-align: center;
+	   padding: 20px;
+	   font-size: 12px;
+  }
+  
+  .option{
+	   float:left;
+	   min-height: 20px;
+	   height: 25px;
+	   font-size: 20px;
+	   padding: 15px;
+	   margin-left: 35px;
+	   text-align: center;
+	   transition: 0.3s;
+	   color: rgb(133, 133, 133);
+  }
+  
+   .option:hover{
+	   background-color: #fae0fd;
+	   cursor: pointer;
+	   border-radius: 5px;
+  }
+  
+
+  a{
+	  text-decoration: none;
+  }
+
+  .dottedline{
+	height: 5px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	border-bottom: 6px dotted #e6d3a9
+}
+
+.bigtitle{
+	font-size: 30px;
+	font-weight: 700px;
+	letter-spacing: 2px;
+	}
